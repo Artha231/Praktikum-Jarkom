@@ -2,9 +2,9 @@
   
 | Field       | Data                 |
 |-------------|----------------------|
-| Nama        | Putra P Suratinoyo |
+| Nama        | Putra Paramartha Suratinoyo |
 | Nim         | 103072400022         |
-| Kelas       | IF-04-04             |
+| Kelas       | IF-04-04         |
 | Mata Kuliah | Jaringan Komputer    |
   
   
